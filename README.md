@@ -1,2 +1,2 @@
-# c-
+# c++
 Learning C++ at DXC
