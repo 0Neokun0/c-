@@ -5,6 +5,11 @@
       "taskLabel": "task-hello",
       "appliesTo": "hello.cpp",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-numbers",
+      "appliesTo": "numbers.cpp",
+      "type": "launch"
     }
   ]
 }
